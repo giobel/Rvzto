@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get Search Sets
-parent: SearchSets
+parent: Search Sets
 nav_order: 5
 ---
 

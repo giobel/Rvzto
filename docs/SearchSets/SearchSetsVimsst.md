@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create Search Sets with .vimsst
-parent: SearchSets
+parent: Search Sets
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AppTempl from Search Sets
-parent: Templates
+parent: Appearance Templates
 nav_order: 5
 ---
 

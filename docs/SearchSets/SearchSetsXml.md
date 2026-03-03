@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create Search Sets with xml
-parent: SearchSets
+parent: Search Sets
 nav_order: 5
 ---
 

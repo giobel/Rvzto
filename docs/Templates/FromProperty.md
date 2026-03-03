@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AppTempl from Item Prop
-parent: Templates
+parent: Appearance Templates
 nav_order: 5
 ---
 
