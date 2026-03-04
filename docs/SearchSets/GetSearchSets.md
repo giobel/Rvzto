@@ -5,4 +5,4 @@ parent: Search Sets
 nav_order: 5
 ---
 
-Exported Search Sets are saved in a .vimsst file format.
+# Get Search Sets information from .vimsst file
