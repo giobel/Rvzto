@@ -19,4 +19,5 @@ This workflow does not provide a solution for templates that use custom selectio
 Elements colour maps based on a single property with multiple values:
 
 - Distinct colours
+
 - Gradient colours
