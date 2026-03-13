@@ -7,6 +7,11 @@ nav_order: 2
 # Workflow
 {: .no_toc }
 
+## Create 
+
+
+
+
 Search Sets can be created from scratch by compiling a .xml file or a .vimsst file.
 
 Apperance Templates can be set up using property items or search sets. The starting point can be an existing .vimsst file with one condition that gets replicated or from scratch. Search Sets can be added programatically using their id and name (acquired beforehand).
