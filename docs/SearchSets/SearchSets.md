@@ -8,15 +8,13 @@ permalink: /docs/SearchSets
 
 # Search Sets
 
-SearchSets are a powerful tool for filtering, organizing, and reusing searches across your BIM or construction model data.
+SearchSets are a powerful tool for filtering, organizing, and reusing searches across the construction model data.
 
 ### Use of SearchSets
 
-Filter and group data: You can create custom groups of issues, objects, or elements based on properties like type, status, author, or custom parameters.
+Filter and group data: You can create custom groups of issues, objects, or elements based on properties like type, status, geometry, or custom parameters.
 
-Quick access: Instead of manually searching every time, you save a SearchSet to instantly retrieve the same group.
-
-Reporting & dashboards: You can use SearchSets in dashboards, schedules, or exports to focus only on relevant items.
+Quick access: Instead of manually searching every time, you save a SearchSet to instantly retrieve the same group of items.
 
 Collaboration: Teams can share SearchSets to ensure everyone is looking at the same filtered view.
 
