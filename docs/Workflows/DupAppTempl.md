@@ -7,12 +7,12 @@ nav_order: 5
 
 ### Duplicate Appearance Templates conditions for multiple property values
 
-<img width="964" height="718" alt="Image" src="https://github.com/user-attachments/assets/d2f2550b-5bd9-4374-bef7-a4b02f94fbc3" />
+![](/assets/dupConditions.png)
 
 
 ### Application
 
 Automatically colour elements by properties 
 
-[![Watch the video]](https://youtu.be/lYVFnb0WW9Y?si=aUUzmBB4YB63msu5)
+[![Watch the video](/assets/dupConditionsVideo.png)](https://youtu.be/lYVFnb0WW9Y?si=aUUzmBB4YB63msu5 "Video tutorial demonstrating how to duplicate appearance templates and apply conditional formatting based on multiple property values in the application interface")
 
