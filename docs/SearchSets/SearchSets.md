@@ -24,14 +24,10 @@ Collaboration: Teams can share SearchSets to ensure everyone is looking at the s
 
 Define filters (e.g., all items with the same property value, or all doors with a specific type).
 
-#### 2. Save it as a SearchSet:
+#### 2. Apply SearchSet anywhere:
 
-Give it a name and optional color tag for easy identification.
+From the Search Sets list apply the SearchSet to instantly select the filtered items.
 
-#### 3. Apply SearchSet anywhere:
-
-In issues, 3D models, or 2D sheets, you can apply the SearchSet to instantly see only the filtered items.
-
-#### 4. Dynamic updates:
+#### 3. Dynamic updates:
 
 If new items match the SearchSet criteria, they automatically appear in it without needing to recreate the search.
