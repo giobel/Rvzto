@@ -2,7 +2,7 @@
 layout: default
 title: Create Search Sets with xml
 parent: Search Sets
-nav_order: 5
+nav_order: 2
 ---
 
 # Create Search Sets with xml
@@ -284,4 +284,4 @@ WriteXML(demo_less_than, "End", end,"less_than", "Demolition")
 - `Elements only` checkbox cannot be set from xml tags (this property does not exist in Navisworks)
 - `Group` conditions cannot be set from xml (this property does not exist in Navisworks)
 
-Due to this limitations, it is worth exploring the Search Sets creation from Revizto native .vimsst files.
+Due to these limitations, it is worth exploring the Search Sets creation from Revizto native .vimsst files.
