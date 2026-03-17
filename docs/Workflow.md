@@ -9,9 +9,7 @@ nav_order: 2
 
 ## Appearance Templates
 
-### Duplicate Appearance Templates conditions for multiple property values
 
-<img width="870" height="728" alt="Image" src="https://github.com/user-attachments/assets/272813b8-967f-405b-9a60-d974ecd80860" />
 
 ### Create Appearance Templates from Excel 
 
@@ -63,11 +61,7 @@ nav_order: 2
                 decItem['1'].append({'1': 8, '2': 0, '3': {'1': 0, '2': {'1': {'1': {'1': r.filter_id.encode(), '2': r.filter_name.encode()}}}}})
 ```
 
-## Usage
 
-### Automatically colour elements by properties 
-
-https://github.com/user-attachments/assets/b28d6037-7f4f-4a79-8aee-bd23b71033c4
 
 ### 4D Timeliner
 
