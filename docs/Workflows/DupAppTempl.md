@@ -7,11 +7,12 @@ nav_order: 5
 
 ### Duplicate Appearance Templates conditions for multiple property values
 
-<img width="964" height="718" alt="image" src="https://github.com/user-attachments/assets/aa824914-29db-4d78-843b-ee22b150b7e2" />
+<img width="964" height="718" alt="Image" src="https://github.com/user-attachments/assets/d2f2550b-5bd9-4374-bef7-a4b02f94fbc3" />
 
 
 ### Application
 
 Automatically colour elements by properties 
 
-<img src="https://github.com/user-attachments/assets/b28d6037-7f4f-4a79-8aee-bd23b71033c4" />
+[![Watch the video]](https://youtu.be/lYVFnb0WW9Y?si=aUUzmBB4YB63msu5)
+
