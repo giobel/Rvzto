@@ -1,25 +1,9 @@
 ---
 layout: default
-title: Workflows
-nav_order: 2
+title: 4D Timeliner
+parent: Workflows
+nav_order: 5
 ---
-
-# Workflows
-{: .no_toc }
-
-## Appearance Templates
-
-
-
-### Create Appearance Templates from Excel 
-
-<img width="1221" height="517" alt="Image" src="https://github.com/user-attachments/assets/1952b675-75e5-4663-8ebc-55fc25fb3728" />
-
-### Search Sets
-
-### Create Search Sets with multiple conditions from .csv file
-
-<img width="1638" height="345" alt="Image" src="https://github.com/user-attachments/assets/761ebd81-3a58-4c69-a2c4-f7e69ea6aa53" />
 
 ## 4D Timeliner
 
@@ -61,16 +45,6 @@ nav_order: 2
                 decItem['1'].append({'1': 8, '2': 0, '3': {'1': 0, '2': {'1': {'1': {'1': r.filter_id.encode(), '2': r.filter_name.encode()}}}}})
 ```
 
-
-
-### 4D Timeliner
+### Application
 
 Colour elements based on their start/end dates or construct/demolish actions.
-
-## Notes
-
-- Search Sets can be created from scratch by compiling a .xml file or a .vimsst file.
-- Apperance Templates can be set up using property items or search sets. The starting point can be an existing .vimsst file with one condition that gets replicated or from scratch. Search Sets can be added programatically using their id and name (acquired beforehand). This workflow does not provide a solution for templates that use custom selections.
-- Automatically create colour maps by element properties (Distinct, Random or Gradient colours)
-- The online web app can be used to generate heat maps or distinct colours views base on items property values. The starting template is required to infer the property conditions type (string, number...), the operator (hide, unhide, isolate, colour...).
-- Appereance templates can also be created from scratch using existing Search Sets
