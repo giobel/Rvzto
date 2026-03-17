@@ -14,5 +14,5 @@ nav_order: 5
 
 Automatically colour elements by properties 
 
-[![Watch the video](/Rvzto/assets/dupConditionsVideo.png)](https://youtu.be/lYVFnb0WW9Y?si=aUUzmBB4YB63msu5 "Video tutorial demonstrating how to duplicate appearance templates and apply conditional formatting based on multiple property values in the application interface")
+[![Watch the video](/Rvzto/assets/dupConditionsVideo.png)](https://youtu.be/lYVFnb0WW9Y?si=aUUzmBB4YB63msu5)
 

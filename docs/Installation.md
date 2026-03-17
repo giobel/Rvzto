@@ -13,3 +13,5 @@ Libraries used:
 
 - [blackboxprotobuf](https://pypi.org/project/blackboxprotobuf/)
 - [zlib (Python stdlib)](https://docs.python.org/3/library/zlib.html)
+- [xml.etree.ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html)
+- [uuid](https://docs.python.org/3/library/uuid.html)
