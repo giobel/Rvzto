@@ -2,7 +2,7 @@
 layout: default
 title: AppTempl from Item Prop
 parent: Appearance Templates
-nav_order: 5
+nav_order: 2
 ---
 
 # Create Appearance Template from items property
@@ -138,5 +138,4 @@ with open(filename, "wb") as f:
 
 If we import the template back into Revizto, the new rules are created and new colours have been automatically assigned:
 
-![](Rvzto/assets/aprofilerGenerated.png)
-
+![](/Rvzto/assets/aprofilerGenerated.png)

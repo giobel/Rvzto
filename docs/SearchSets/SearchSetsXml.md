@@ -128,7 +128,7 @@ Flags:
 
 ### 4D Timeliner Example
 
-One importatnt thing to remember is Datetime values are stored in nanoseconds starting from 01-01-0001 (.NET DateTime counts the number of ticks since midnight, January 1, 0001).
+One important thing to remember is Datetime values are stored in nanoseconds starting from 01-01-0001 (.NET DateTime counts the number of ticks since midnight, January 1, 0001).
 
 We can create a function to convert datetime to Revizto nanoseconds time:
 
