@@ -112,7 +112,7 @@ with open(path, "rb") as f:
 
 Then let's copy the rule and assign new values and save the encoded data back to .aptmpl:
 
-```pythron
+```python
 values = ['A1010100','B1010350','B10']
 n_values = len(values)
 
