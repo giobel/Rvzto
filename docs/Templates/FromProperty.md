@@ -2,7 +2,7 @@
 layout: default
 title: AppTempl from Item Prop
 parent: Appearance Templates
-nav_order: 2
+nav_order: 1
 ---
 
 # Create Appearance Template from items property
