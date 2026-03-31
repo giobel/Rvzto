@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<exchange xmlns_xsi="http://www.w3.org/2001/XMLSchema-instance" xsi_noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd" units="m" filename="" filepath="">
+  <selectionsets>
+    <viewfolder name="Tasks Starts in Between" guid="b84e0eb4-c43d-4838-acec-28586a82ffde">
+      <selectionset name="Tasks Starts in Between_2026-06-11 08:00:00_2026-06-11 17:00:00" guid="72dccd8c-0c87-4ce9-b5d8-6e74d8ad3133">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639167328000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639167652000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-07-21 08:00:00_2026-07-21 17:00:00" guid="c3cc7cb5-2aa2-496e-91d2-ef9bf4f16d9e">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639201888000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639202212000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-07-03 08:00:00_2026-07-03 17:00:00" guid="084f5ae0-15cf-46d8-8dd0-e6bf86cad808">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639186336000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639186660000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-06-11 08:00:00_2026-06-11 17:00:00" guid="24e1ae24-ad8f-4161-919e-0f920e0ca67e">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639167328000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639167652000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-06-14 08:00:00_2026-07-14 17:00:00" guid="3956de14-de09-4864-ba0a-161ea45e9d45">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639169920000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639196164000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-06-27 08:00:00_2026-06-27 17:00:00" guid="4ae6155b-a09d-4bf3-a50f-378331bd75ac">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639181152000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639181476000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-08-08 08:00:00_2026-08-08 17:00:00" guid="930436c6-7862-46f4-a8dc-bb14da8bb1a0">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639217440000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639217764000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-08-10 08:00:00_2026-08-10 17:00:00" guid="c13dc04f-8560-4a24-91dc-8a22f99d4dd8">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639219168000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639219492000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Tasks Starts in Between_2026-08-18 08:00:00_2026-08-18 17:00:00" guid="0d3781db-6fd7-4a98-b3f6-84dd73206808">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639226080000000000</data>
+              </value>
+            </condition>
+            <condition test="less_equal" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639226404000000000</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+  </selectionsets>
+</exchange>

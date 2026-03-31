@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<exchange xmlns_xsi="http://www.w3.org/2001/XMLSchema-instance" xsi_noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd" units="m" filename="" filepath="">
+  <selectionsets>
+    <viewfolder name="Actual End Date Demo less_than Start" guid="e11b0233-6064-4db6-b6df-1a5c2ace65c5">
+      <selectionset name="Actual End Date Demo less_than Start_2026-06-11 08:00:00" guid="85d606f9-e566-4c8b-89c6-9c0314294379">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639167328000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-07-21 08:00:00" guid="e5979d38-5c16-4c0d-8598-e9bf95f5bb52">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639201888000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-07-03 08:00:00" guid="d3e93249-4251-43c8-a54e-7049583f8c28">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639186336000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-06-11 08:00:00" guid="30139cde-5bef-4d41-924f-2d137fd7abbd">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639167328000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-06-14 08:00:00" guid="6c7ecc99-4185-48bb-aeb1-6be832e97eb6">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639169920000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-06-27 08:00:00" guid="45afd0b4-014c-49bd-ae51-92d3e9c631c3">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639181152000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-08-08 08:00:00" guid="26f75954-5be5-41fa-ac57-50ebd8a979fa">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639217440000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-08-10 08:00:00" guid="e2214eb3-7e8f-44cf-a163-7cbea660437d">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639219168000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual End Date Demo less_than Start_2026-08-18 08:00:00" guid="2632fe95-d7e0-499b-b224-78633d77c00a">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="less_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual End Date">Actual End Date</name>
+              </property>
+              <value>
+                <data type="time">639226080000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Demolition</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+  </selectionsets>
+</exchange>

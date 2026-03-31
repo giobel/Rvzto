@@ -1,0 +1,268 @@
+<?xml version="1.0" ?>
+<exchange xmlns_xsi="http://www.w3.org/2001/XMLSchema-instance" xsi_noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd" units="m" filename="" filepath="">
+  <selectionsets>
+    <viewfolder name="Actual Start Date Construct greater_than Start" guid="0ff26e5f-073f-46c8-9d05-2428410ca987">
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-06-11 08:00:00" guid="fd933561-ffbd-4193-8a42-86a15ccb7ee2">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639167328000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-07-21 08:00:00" guid="05d3cc03-eeab-4adf-9d7d-470c08e5695f">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639201888000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-07-03 08:00:00" guid="5908d3ca-9b25-4dac-b570-c63b0e46679e">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639186336000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-06-11 08:00:00" guid="0ffd30a6-ae68-420e-be79-4300943020e9">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639167328000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-06-14 08:00:00" guid="14531ca6-426a-4520-a7fd-de4c70f0de4f">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639169920000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-06-27 08:00:00" guid="0cde5123-0316-406f-ac33-d8fa8bb599f1">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639181152000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-08-08 08:00:00" guid="7109a921-0a48-4acd-b609-a7432a7ddc97">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639217440000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-08-10 08:00:00" guid="27673243-b97c-49c7-aa44-ffbd1dfc3c54">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639219168000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+      <selectionset name="Actual Start Date Construct greater_than Start_2026-08-18 08:00:00" guid="4547c032-d1fc-4742-ac02-07fb5ee888ee">
+        <findspec mode="all" disjoint="0">
+          <conditions>
+            <condition test="greater_than" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Actual Start Date">Actual Start Date</name>
+              </property>
+              <value>
+                <data type="time">639226080000000000</data>
+              </value>
+            </condition>
+            <condition test="equals" flags="10">
+              <category>
+                <name internal="TimeLiner+">TimeLiner +</name>
+              </category>
+              <property>
+                <name internal="Task Type">Task Type</name>
+              </property>
+              <value>
+                <data type="wstring">Construct</data>
+              </value>
+            </condition>
+          </conditions>
+          <locator>/</locator>
+        </findspec>
+      </selectionset>
+    </viewfolder>
+  </selectionsets>
+</exchange>
