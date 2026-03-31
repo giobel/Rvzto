@@ -1,1 +1,5 @@
 Repository containing the scripts referenced in the documentation: https://giobel.github.io/Rvzto/
+
+Appearance Template Properties Generator
+
+https://youtu.be/lYVFnb0WW9Y?si=lGdizMPlF45zuicH
